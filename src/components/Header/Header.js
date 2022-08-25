@@ -6,8 +6,8 @@ const Header = () => {
     return (
         <div className='nav-section'>
              <nav>
-                  <NavLink to="/" className="link">Foods</NavLink>
-                  <NavLink to="/find" className="link">find food</NavLink>
+                  <NavLink to="/" activeclassname="active" className="link" >Foods</NavLink>
+                  <NavLink to="/find"  activeclassname="active"  className="link" >find food</NavLink>
              </nav>
         </div>
     );

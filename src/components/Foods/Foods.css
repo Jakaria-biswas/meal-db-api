@@ -1,0 +1,9 @@
+.food-container{
+     padding: 10px;
+}
+.food-section{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-gap: 10px;
+
+}

@@ -8,9 +8,11 @@
 
 }
 .nav-section .link{
-    color: #fff;
+    color: lightgray;
     text-decoration: none;
     margin: 10px;
   
-    
+}
+.active{
+    color: #fff !important;
 }
